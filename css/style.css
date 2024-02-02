@@ -71,6 +71,7 @@ article:nth-child(even) {
 .new::before {
     content: "New ";
     color: brown;
+}
 
 footer {
     padding-top: 20px;
@@ -89,7 +90,7 @@ footer .links > a {
     font-weight: 200;
     text-decoration: none;
     text-transform: uppercase;
-    font-family: 'Times New Roman', Times, serif;;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 footer a:hover {
@@ -98,5 +99,5 @@ footer a:hover {
 
 .copyright {
     color: rgb(121, 116, 116);
-    font-family: 'Times New Roman', Times, serif;;
+    font-family: 'Times New Roman', Times, serif;
 }
